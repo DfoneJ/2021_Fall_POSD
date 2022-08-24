@@ -15,7 +15,7 @@ Therefore, you have to install "Ubuntu on windows", and complete [Ubuntu OS envi
 
 ### 1. Open "Developer mode"
 
-Steps: 設定(Setting) -> 更新與安全性(Update & Security) -> 開發人員專用(For developers) -> Select "開發人員模式"(Developer mode)
+Steps: 設定(Setting) -> 更新與安全性(Update & Security) -> 開發人員專用(For developers) -> Select "開發人員模式"(Developer mode)
 ![Set Developer mode](./img/computer/SetDeveloperMode.png)
 
 ### 2. Enable "Windows Subsystem for Linux"
